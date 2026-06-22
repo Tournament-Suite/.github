@@ -2,7 +2,7 @@
 
 **The connected operating system for competitive gaming.**
 
-[Website](https://tournamentsuite.com) · [Developer Docs](https://tournamentsuite.com/developer) · [Live Demo](https://arena.gamertd.com) · [Contact](https://tournamentsuite.com/contact)
+[Website](https://tournamentsuite.com) · [Developer Docs](https://tournamentsuite.com/developer) · [Live Demo](https://arena.tournamentsuite.com) · [Contact](https://tournamentsuite.com/contact)
 
 ---
 
